@@ -15,12 +15,12 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/zhutibang/theme-ztbcms-docs.git"
+        "url": "https://github.com/ztbcms/theme-ztbcms-docs.git"
     },
     "author": "FriendCode Inc. <contact@gitbook.com>",
     "license": "Apache-2.0",
     "bugs": {
-        "url": "https://github.com/zhutibang/theme-ztbcms-docs/issues"
+        "url": "https://github.com/ztbcms/theme-ztbcms-docs/issues"
     },
     "contributors": [
         {
